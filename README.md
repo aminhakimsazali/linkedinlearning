@@ -7,6 +7,22 @@ what is GitHub?
 What is Version Control?
 Version control is a system that records changes to files over time so you can recall specific versions later. It helps teams:
 
+This is footnote[^1]. and this is second[^2]
+
+[^1]: Reference1
+[^2]: Reference2
+
+|Left|Center|Right|
+|----|----|----|
+|One|----|----|
+|----|Two|----|
+|----|Two|Three|
+
+- [x] First
+  - [x] Sub first
+- [ ] Two
+- [ ] Three
+
 ```
 let x = 5;
 console.log(X);
